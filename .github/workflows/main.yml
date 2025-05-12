@@ -10,16 +10,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4m
       - name: Generate Snake animation
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Move generated files to repository folder
+        run: |
+          mkdir -p output
+          cp dist/*.svg output/
       - name: Commit and push snake
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate contribution snake"
-          add: "*.svg"
+          add: "output/*.svg"
