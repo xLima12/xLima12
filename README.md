@@ -52,9 +52,11 @@ Atualmente estou desenvolvendo o **Domus**, um micro SaaS para o setor imobiliá
 
 ---
 
-## 🐍 Contribuições (Snake Game)
+## 🐍 Contribuições
 
 ![Snake animation](https://github.com/xLima12/xLima12/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://github.com/xLima12/xLima12/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
