@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Felipe Lima 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Java | Entusiasta de Arquitetura de Software | Construindo o micro SaaS <a href="https://github.com/xLima12/domus">Domus 🏡</a></b><br>
+  <b>Desenvolvedor Java | Entusiasta de Arquitetura de Software | Construindo o <a href="[https://github.com/xLima12/domus](https://github.com/xLima12/controlei)">Controlei 🏡</a></b><br>
   Backend • Microsserviços • DDD • DevOps • GraphQL
 </p>
 
@@ -19,7 +19,7 @@
 
 Sou um desenvolvedor backend com foco em **Java** e **arquitetura de microsserviços**. Tenho interesse especial em **Domain-Driven Design (DDD)**, boas práticas de código e construção de sistemas escaláveis e robustos.
 
-Atualmente estou desenvolvendo o **Domus**, um micro SaaS para o setor imobiliário, com o objetivo de:
+Atualmente estou desenvolvendo o **Controlei**, um projeto para gestão financeira pessoal, com o objetivo de:
 
 - 📚 Aprimorar minhas habilidades em arquitetura de software
 - 💡 Ganhar experiência prática com tecnologias modernas
@@ -29,7 +29,7 @@ Atualmente estou desenvolvendo o **Domus**, um micro SaaS para o setor imobiliá
 
 ## 🛠️ Tecnologias que uso
 
-- **Linguagens**: Java, SQL, GraphQL
+- **Linguagens**: Java, SQL
 - **Arquitetura**: Microsserviços, DDD, SOLID
 - **DevOps**: Docker, Kubernetes, RabbitMQ
 - **Observabilidade**: Grafana, Prometheus, SonarQube
@@ -39,7 +39,7 @@ Atualmente estou desenvolvendo o **Domus**, um micro SaaS para o setor imobiliá
 
 ## ✨ No momento estou...
 
-- 🚀 Desenvolvendo o [Domus](https://github.com/FelipeLima/domus) (micro SaaS imobiliário)
+- 🚀 Desenvolvendo o [Controlei]([https://github.com/xLima12/controlei]) (controle financeiro pessoal)
 - 🛠️ Aprofundando em **Kubernetes** e **mensageria com RabbitMQ**
 - 🎓 Planejando uma pós-graduação focada em **arquitetura de software**
 
@@ -49,14 +49,6 @@ Atualmente estou desenvolvendo o **Domus**, um micro SaaS para o setor imobiliá
 
 - [LinkedIn](https://www.linkedin.com/in/felipe-lima-19873a14b/)  
 - **Email**: contato@flima.dev
-
----
-
-## 🐍 Contribuições
-
-![Snake animation](https://github.com/xLima12/xLima12/blob/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://github.com/xLima12/xLima12/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
